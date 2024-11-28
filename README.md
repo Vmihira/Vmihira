@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Pharma Genie](https://vmihira.github.io/Pharma-Genie/)
 
-- 🌱 I’m currently learning **Flask, PyMongo**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vmihira](https://github.com/Vmihira)
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JS, Next.js, Python, C, C++, Bootstrap**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, JS, Next.js, Python, C, C++, Bootstrap, Flask, MongoDB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
