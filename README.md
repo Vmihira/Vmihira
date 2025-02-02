@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinjamuri Mihira</h1>
 <h3 align="center">Passionate developer with a knack for turning ideas into reality through code. Always eager to learn and explore the endless possibilities in the tech world.</h3>
 
-- 🔭 I’m currently working on [Pharma Genie](https://vmihira.github.io/Pharma-Genie/)
+- 🔭 I’m currently working on [Meteor AI](https://github.com/Vmihira/my-app)
 
 - 🌱 I’m currently learning **Generative AI**
 
