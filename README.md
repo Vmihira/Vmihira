@@ -21,9 +21,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmihira&show_icons=true&locale=en&layout=compact" alt="vmihira" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vmihira" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Vmihira" alt="GitHub Streak" /></a>
 
 
 
