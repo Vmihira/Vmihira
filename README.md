@@ -21,6 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vmihira&show_icons=true&locale=en&layout=compact" alt="vmihira" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vmihira)](https://git.io/streak-stats)
+<p><img align="center" src="(https://streak-stats.demolab.com/?user=Vmihira)](https://git.io/streak-stats) alt="milli" /> </p>
 
 
